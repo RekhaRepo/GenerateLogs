@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.QA.log4j.concept.Log4jTest" duration-ms="59058" started-at="2021-10-04T05:31:01Z" finished-at="2021-10-04T05:32:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="59058" started-at="2021-10-04T05:31:01Z" finished-at="2021-10-04T05:32:00Z">
+      <class name="com.QA.log4j.concept.Log4jTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="setUp" is-config="true" duration-ms="24199" started-at="2021-10-04T11:01:01Z" finished-at="2021-10-04T11:01:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getFreeCRMLogo()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="getFreeCRMLogo" duration-ms="5662" started-at="2021-10-04T11:01:25Z" finished-at="2021-10-04T11:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFreeCRMLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="tearDown" is-config="true" duration-ms="2057" started-at="2021-10-04T11:01:31Z" finished-at="2021-10-04T11:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="setUp" is-config="true" duration-ms="22043" started-at="2021-10-04T11:01:33Z" finished-at="2021-10-04T11:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getFreeCRMTitleTest()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="getFreeCRMTitleTest" duration-ms="169" started-at="2021-10-04T11:01:55Z" finished-at="2021-10-04T11:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFreeCRMTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.QA.log4j.concept.Log4jTest@1b604f19]" name="tearDown" is-config="true" duration-ms="4914" started-at="2021-10-04T11:01:55Z" finished-at="2021-10-04T11:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.QA.log4j.concept.Log4jTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.QA.log4j.concept.Log4jTest -->
+</testng-results>
